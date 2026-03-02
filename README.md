@@ -2,7 +2,7 @@
 
 **Wie selektive Wahrnehmung dein Gehirn steuert.**
 
-Ein interaktives Mini-Experiment rund um Aufmerksamkeit und Fokus – inspiriert vom berühmten Gorilla-Experiment (Simons & Chabris, 1999). Ergänzung zum [Pizza-Spiel (Reaktions-Experiment)](https://jubuekal-source.github.io/focus-experiment/).
+Ein interaktives Mini-Experiment rund um Aufmerksamkeit und Fokus – inspiriert vom berühmten Gorilla-Experiment (Simons & Chabris, 1999).
 
 ## ▶️ Jetzt ausprobieren
 
